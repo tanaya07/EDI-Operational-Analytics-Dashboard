@@ -10,6 +10,15 @@ EDI operations teams process large volumes of transactions daily. Tracking trans
 
 This project provides a centralized dashboard to improve visibility into EDI operations and support faster issue identification and decision-making.
 
+## Key Metrics
+
+- Total Transactions Processed
+- Purchase Order Volume
+- Duplicate Purchase Orders
+- Invalid File Count
+- Transaction Trends
+- Exception Monitoring
+
 ## Features
 - Automated EDI file parsing and data extraction
 - Purchase Order (PO) analysis
@@ -32,10 +41,10 @@ This project provides a centralized dashboard to improve visibility into EDI ope
 EDI Files → Python Processing → CSV Output → Power BI Dashboard
 
 ### Python Dashboard
-![EDI-Operational-Analytics-Dashboard](Screenshot%202026-05-25%20204005.png)
+![EDI-Operational-Analytics-Dashboard](Python Dashboard.png)
  
 ### Power BI Dashboard
-![EDI-Operational-Analytics-Dashboard](Screenshot%202026-05-25%20204121.png)
+![EDI-Operational-Analytics-Dashboard](Power BI Dashboard.png)
 
 ## Author
 Tanaya Patil
