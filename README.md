@@ -35,7 +35,7 @@ EDI Files → Python Processing → CSV Output → Power BI Dashboard
 ![EDI-Operational-Analytics-Dashboard](Screenshot%202026-05-25%20204005.png)
  
 ### Power BI Dashboard
-[EDI-Operational-Analytics-Dashboard](Screenshot%202026-05-25%20204121.png)
+![EDI-Operational-Analytics-Dashboard](Screenshot%202026-05-25%20204121.png)
 
 ## Author
 Tanaya Patil
