@@ -1,17 +1,25 @@
 # EDI Operational Analytics Dashboard
 
 ## Project Overview
-Developed an automated EDI analytics dashboard to process EDI transaction files, extract purchase order data, monitor exceptions, and generate operational insights using Python and Power BI.
+Designed and developed an EDI Operational Analytics Dashboard to automate the monitoring of EDI transactions, identify processing exceptions, and provide operational insights through interactive visualizations.
+
+The solution processes raw EDI transaction files using Python, transforms the data into structured datasets, and presents key business metrics through Power BI dashboards.
+
+## Business Problem
+EDI operations teams process large volumes of transactions daily. Tracking transaction volumes, duplicate purchase orders, invalid files, and processing exceptions manually can be time-consuming and error-prone.
+
+This project provides a centralized dashboard to improve visibility into EDI operations and support faster issue identification and decision-making.
 
 ## Features
-- EDI file parsing and extraction
-- KPI monitoring dashboard
+- Automated EDI file parsing and data extraction
+- Purchase Order (PO) analysis
 - Duplicate PO detection
 - Invalid file monitoring
-- Transaction trend analysis
-- Interactive filtering
+- Transaction volume tracking
+- KPI monitoring dashboard
+- Interactive filtering and drill-down capabilities
 - CSV export functionality
-- Power BI reporting dashboard
+- Power BI reporting and visualization
 
 ## Technologies Used
 - Python
