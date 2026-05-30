@@ -1,4 +1,3 @@
-# EDI-Operational-Analytics-Dashboard
 # EDI Operational Analytics Dashboard
 
 ## Project Overview
@@ -24,11 +23,11 @@ Developed an automated EDI analytics dashboard to process EDI transaction files,
 ## Workflow
 EDI Files → Python Processing → CSV Output → Power BI Dashboard
 
-## Screenshots
-
 ### Python Dashboard
+https://github.com/tanaya07/EDI-Operational-Analytics-Dashboard/blob/main/Screenshot%202026-05-25%20204005.png
  
 ### Power BI Dashboard
- 
+https://github.com/tanaya07/EDI-Operational-Analytics-Dashboard/blob/main/Screenshot%202026-05-25%20204121.png
+
 ## Author
 Tanaya Patil
