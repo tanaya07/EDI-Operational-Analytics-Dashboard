@@ -32,10 +32,10 @@ This project provides a centralized dashboard to improve visibility into EDI ope
 EDI Files → Python Processing → CSV Output → Power BI Dashboard
 
 ### Python Dashboard
-https://github.com/tanaya07/EDI-Operational-Analytics-Dashboard/blob/main/Screenshot%202026-05-25%20204005.png
+![EDI-Operational-Analytics-Dashboard](Screenshot%202026-05-25%20204005.png)
  
 ### Power BI Dashboard
-https://github.com/tanaya07/EDI-Operational-Analytics-Dashboard/blob/main/Screenshot%202026-05-25%20204121.png
+[EDI-Operational-Analytics-Dashboard](Screenshot%202026-05-25%20204121.png)
 
 ## Author
 Tanaya Patil
